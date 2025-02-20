@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 fu, ur profile, your codes and everythign about you 
 
 <!--
 **prathika-yadav/prathika-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-fu
+
